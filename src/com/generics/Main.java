@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package com.generics;
 
 public class Main {
 
